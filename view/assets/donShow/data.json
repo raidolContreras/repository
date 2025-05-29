@@ -1,0 +1,20 @@
+{
+  "folders": [
+    "App_Data",
+    "assets",
+    ".htaccess",
+    "config",
+    "controller",
+    "model",
+    "view",
+    "api"
+  ],
+  "files": [
+    ".user.ini",
+    "favicon.ico",
+    "index.php",
+    "web.config",
+    ".htaccess",
+    ".env"
+  ]
+}
